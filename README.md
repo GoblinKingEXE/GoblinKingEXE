@@ -5,7 +5,7 @@
 <h1 align="center">🕷️ GoblinKingEXE</h1>
 
 <p align="center">
-  <em>Construindo projetos, úteis e experimentais.</em>
+  <em>Construindo sites experimentais.</em>
 </p>
 
 <p align="center">
