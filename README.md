@@ -1,4 +1,4 @@
-## Hi there 👋
+## GoblinKingEXE
 
 <!--
 **GoblinKingEXE/GoblinKingEXE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GoblinKingEXE&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoblinKingEXE&layout=compact&theme=tokyonight"/>
+
+  <img align="center" alt="GoblinKingEXE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
