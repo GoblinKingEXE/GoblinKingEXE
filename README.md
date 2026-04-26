@@ -5,7 +5,7 @@
 <h1 align="center">✦ GoblinKingEXE ✦</h1>
 
 <p align="center">
-  <em>[ construindo páginas experimentais na web esquecida ]</em>
+  <em>[ construindo páginas experimentais na web ]</em>
 </p>
 
 <div align="center">
@@ -16,7 +16,7 @@
       <strong>╔══════════════════════════════╗</strong><br>
       <strong> INTERNET CORE / STATIC WEB </strong><br>
       <strong>╚══════════════════════════════╝</strong><br><br>
-      Criando sites estáticos, interfaces experimentais e experiências web com identidade própria.<br>
+      Criando sites estáticos, interfaces experimentais e experiências web.<br>
       Explorando HTML, CSS e JavaScript enquanto transformo ideias simples em páginas memoráveis.
     </td>
   </tr>
