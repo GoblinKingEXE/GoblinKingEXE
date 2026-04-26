@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/CSS3-1c1c1c?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-262626?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Static%20Websites-303030?style=for-the-badge&logo=githubpages&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-3a3a3a?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 ---
